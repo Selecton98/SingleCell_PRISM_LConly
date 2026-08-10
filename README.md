@@ -1,2 +1,2 @@
 # SingleCell_PRISM_LCIgH
-This is the code accompanying the paper, “Absence of Productive IgH Expression Marks a Biologically Distinct and Clinically Relevant Subtype in Primary AL Amyloidosis” by Xuezhu (Sunny) Wang and Xinyi Xiong
+This is the code accompanying the paper, “Loss of Productive IgH in Plasma Cell Clones Underlies a Cardiac High-Risk Phenotype in AL Amyloidosis” by Xuezhu Wang, Xinyi Xiong, Chengyang Xu, Yi Xu, Hongxiao Han, Ai Guan, Yajuan Gao, Jian Li, and Kaini Shen.
