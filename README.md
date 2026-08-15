@@ -97,6 +97,4 @@ Formal journal, year, DOI, and BibTeX information should be added when available
 
 ## 📄 License
 
-## 📄 License
-
 This project is licensed under the [MIT License](LICENSE).
