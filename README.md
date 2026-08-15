@@ -26,7 +26,7 @@ This repository contains focused analyses of:
 5. **CytoTRACE-based assessment of developmental potential**
 6. **Heavy-chain repertoire saturation and sequencing-depth evaluation**
 
-Together, these workflows support investigation of light-chain-only plasma-cell biology and its relationship to clinically high-risk AL amyloidosis.
+Together, these workflows support investigation of light-chain-only plasma-cell biology and its relationship to clinically cardiac high-risk AL amyloidosis.
 
 ## 🔬 Analysis Modules
 
@@ -78,8 +78,6 @@ The repository contains both R- and Python-based analyses. Major dependencies ar
 - **Trajectory and developmental-potential analysis:** scVelo and CytoTRACE-related workflows
 - **Scientific computing and statistics:** pandas, NumPy, SciPy, and statsmodels
 - **Visualization:** Matplotlib
-
-Several specialized packages may require installation from Bioconductor, Bioconda, GitHub, or the package authors’ documented distribution channels. Exact package versions are not pinned in this repository; strict reproduction may require matching the versions used in the original analysis environment.
 
 ## 📊 Reproducibility
 
