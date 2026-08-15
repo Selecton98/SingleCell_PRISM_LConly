@@ -2,7 +2,7 @@
 
 ## ⚠️ Disclaimer
 
-The accompanying manuscript is a preprint and has not yet finished peer review. This repository is provided for research and reproducibility purposes only. The code and results should not be used independently to guide clinical diagnosis, prognosis, or treatment decisions.
+The accompanying manuscript has not yet finished peer review. This repository is provided for research and reproducibility purposes only. The code and results should not be used independently to guide clinical diagnosis, prognosis, or treatment decisions.
 
 
 This repository contains the analysis code accompanying the submitted manuscript:
