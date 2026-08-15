@@ -4,9 +4,8 @@
 
 The accompanying manuscript is a preprint and has not yet finished peer review. This repository is provided for research and reproducibility purposes only. The code and results should not be used independently to guide clinical diagnosis, prognosis, or treatment decisions.
 
-> Single-cell analysis of productive immunoglobulin heavy-chain loss and plasma-cell states in AL amyloidosis
 
-This repository contains the analysis code accompanying the manuscript:
+This repository contains the analysis code accompanying the submitted manuscript:
 
 **Loss of Productive IgH in Plasma Cell Clones Underlies a Cardiac High-Risk Phenotype in AL Amyloidosis**
 
