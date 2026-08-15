@@ -4,6 +4,7 @@
 
 The accompanying manuscript has not yet finished peer review. This repository is provided for research and reproducibility purposes only. The code and results should not be used independently to guide clinical diagnosis, prognosis, or treatment decisions.
 
+<img width="191" height="191" alt="image" src="https://github.com/user-attachments/assets/a802e6d8-9e6f-4687-a449-267c70658ab7" />
 
 This repository contains the analysis code accompanying the submitted manuscript:
 
