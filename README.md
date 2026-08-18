@@ -82,8 +82,6 @@ The repository contains both R- and Python-based analyses. Major dependencies ar
 
 ## 📊 Reproducibility
 
-Each notebook documents its biological rationale, aim, expected inputs, workflow sections, and principal outputs. The notebooks use relative or `/home/`-based paths rather than institution-specific storage locations.
-
 Reproduction requires alignment of cell-barcode conventions across scRNA-seq and scBCR-seq data. Particular attention should be paid to sample prefixes, 10x barcode suffixes, clonotype identifiers, productive-chain definitions, and duplicate contig handling.
 
 ## 📖 Citation
